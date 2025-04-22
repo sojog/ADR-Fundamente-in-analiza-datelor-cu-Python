@@ -13,3 +13,8 @@ print( 10 // 3 )
 
 # Impartire cu rest -> restul
 print( 10 % 3)
+
+
+# Principii matematice
+print(3 + 10 * 2)
+print((3 + 10) * 2)
