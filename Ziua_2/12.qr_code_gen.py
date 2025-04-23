@@ -1,5 +1,5 @@
 import pyqrcode
 
-url = "www.youtube.com/@SilviuOjog"
+url = "..."
 qrcode = pyqrcode.create(url)
-img = qrcode.png("test.png", scale=5)
+img = qrcode.png("ana.png", scale=5)
