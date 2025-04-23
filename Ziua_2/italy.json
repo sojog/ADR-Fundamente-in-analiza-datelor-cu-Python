@@ -1,0 +1,14 @@
+{
+    "country": {
+        "3": "Italy",
+        "8": "Italy"
+    },
+    "team": {
+        "3": "Inter",
+        "8": "Juventus"
+    },
+    "trophies": {
+        "3": 3,
+        "8": 2
+    }
+}
