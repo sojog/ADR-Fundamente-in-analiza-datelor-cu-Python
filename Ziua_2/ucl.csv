@@ -2,13 +2,13 @@ id,country,team,trophies
 0,England,Liverpool,6
 1,Spain,Barcelona,5
 2,England,Man United,3
-3,Italy,Inter,3
+3,,Inter,3
 4,England,Chelsea,2
 5,England,Chelsea,2
 6,England,Nottm Forest,2
 7,Portugal,Benfica,2
 8,Italy,Juventus,2
-9,Portugal,FC Porto,2
+9,Portugal,FC Porto,null
 10,England,Man City,1
 11,Germany,Dortmund,1
 12,Netherlands,Feyenoord,1
